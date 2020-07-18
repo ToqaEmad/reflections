@@ -8,5 +8,12 @@ What value do you think it offers?
 staging area is where you sort your commits, and it helps organizing your 
 commits 
 
+How can you use the staging area to make sure you have one commit per 
+logical change ?
+
+move the files of the same logical change to the staging area , commit them
+and then add the next batch along. Meaning: using the staging area in grouping
+the commits.
+
 q
 [A[
