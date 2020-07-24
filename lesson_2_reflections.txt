@@ -31,6 +31,11 @@ in the diagaram the way we do?
 it combines all the commits from the two branches, it simply shows the results
 when preseented in the diagram the way you did guys , thats a silly question 
 can I say that? 
- 
+
+What are the pros and cons of Git automatic merging vs. always doing merges 
+manually? 
+
+pros: makes it eaiser / more practical / faster 
+cons: Git can face conflicts that should be handeled manually  
 q
 [A[
