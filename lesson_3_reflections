@@ -10,4 +10,12 @@ automatically stay up-to-date with your remote repository?
 
 to control what changes are needed on my local pc 
 
+Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
 
+fork: clonning in GitHub enviroment, 
+clone: cloning from GitHub , or clonning in local pc 
+branches: copying/editing on the code/file in the local pc 
+
+fork will only be used in the GitHub enviroment, clone and branches to deal 
+with files on my local pc/laptop
