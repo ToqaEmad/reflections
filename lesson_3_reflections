@@ -30,3 +30,9 @@ and what would be harder?
 
 This would be harder, starting from the need to comapre files , and decide 
 what branches are there and which one to merge and etc  
+
+*When would you want to make changes in a seprate branch rather than directly
+in master? What benefits does each approach have?
+
+If I'm attempting on adding/editing major changes, or try a whole new 
+idea/approach I would make a new branch, but else If I'm working on minor small issues I would edit on master 
